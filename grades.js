@@ -17,6 +17,3 @@ if (grade >= 60 && grade <= 69)
 
 if (grade >= 0 && grade <= 59)
     console.log("You received a F");
-
-else
-  console.log("Invalid")
